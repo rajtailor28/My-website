@@ -1,0 +1,17 @@
+header{
+    background-color: #f0f0f0;
+    h1{
+        color: #007bff;
+    }
+    color:rgb(2, 2, 139);
+    padding: 48px; 
+    margin-left: 48px;
+    border: 3px solid #000;
+
+}
+h1{
+    color:rgb(255, 0, 0);
+}
+h2{
+    color:rgb(111, 2, 120);
+}
